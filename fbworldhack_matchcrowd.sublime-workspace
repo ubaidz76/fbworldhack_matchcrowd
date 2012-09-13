@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"createView"
+			],
+			[
+				"array_me",
+				"array_merge"
+			],
+			[
+				"creat",
+				"createView"
+			],
+			[
+				"cons",
+				"constraints"
+			],
+			[
+				"redire",
+				"redirect_url"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"doc",
+				"Snippet: doctype XHTML 1.0 Transitional DTD"
+			],
+			[
+				"doct",
+				"Snippet: doctype XHTML 1.0 Transitional DTD"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: controller"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/khalidadisendjaja/Sites/tron/jquery-1.8.1.min.js",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/src/Acme/Model/Page.php",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/src/Acme/Provider/Controller/cicontroller.php",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/views/home.html",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/views/header.html",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/views/footer.html",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/views/notification.html",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/views/register.html",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/views/fanlike.html",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/views/authorize.html",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/application/config.php",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/src/Acme/Provider/Controller/CampaignControllerProvider.php",
+		"/Users/khalidadisendjaja/Sites/fbpadpopvoucher/.htaccess",
+		"/Users/khalidadisendjaja/Sites/appvert/composer.json",
+		"/Users/khalidadisendjaja/Sites/appvert/vendor/composer/installed.json",
+		"/Users/khalidadisendjaja/Sites/Silex-Skeleton/composer.json",
+		"/Users/khalidadisendjaja/Sites/Silex-Skeleton/console",
+		"/Users/khalidadisendjaja/Sites/appvert/vendor/composer/autoload_namespaces.php",
+		"/Users/khalidadisendjaja/Sites/appvert/phpinfo.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/models/customer_m.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/routes/dashboard_photo_r.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/views/dashboard/index.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/lib/PEAR/Pager/Common.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/lib/PEAR/Pager.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/lib/PEAR/Pager/Sliding.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/lib/PEAR/Pager/Pager.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/views/tab_landing.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/views/tab_index.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/views/canvas_header.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/views/dashboard/header.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/views/fbjs.php",
+		"/Users/khalidadisendjaja/Sites/fbbeliafuntrip/module/views/dashboard/footer.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/src/Acme/Lib/PEAR/Pager.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/home.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/index.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/src/Acme/Model/Customer.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/src/Acme/Helper/Facebook.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/application/config.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/src/Acme/Lib/PEAR/Pager/Common.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/header.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/gallery.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/register.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/notification.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/src/Acme/Provider/Controller/CampaignControllerProvider.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/upload.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/footer.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/assets/js/script.js",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/src/Acme/Provider/Controller/DashboardControllerProvider.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/dashboard/login.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/dashboard/header.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/src/Acme/Model/Campaign.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/dashboard/customeritem_index.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/views/dashboard/footer.html",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/src/Acme/Provider/Service/FacebookServiceProvider.php",
+		"/Users/khalidadisendjaja/Sites/dssapakatamereka/assets/css/css.css",
+		"/Users/khalidadisendjaja/learnvi.txt",
+		"//users/khalidadisendjaja/documents/thinkwe_dssapakatamereka_2012-07-21.sql",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/khalidadisendjaja/Sites/silex/views/register.html",
+		"/Users/khalidadisendjaja/Sites/silex/src/Acme/Provider/Controller/DashboardControllerProvider.php",
+		"/Users/khalidadisendjaja/Sites/silex/src/Acme/Model/Page.php",
+		"/Users/khalidadisendjaja/Sites/silex/views/dashboard/page_index.html",
+		"/Users/khalidadisendjaja/Sites/silex/views/dashboard/header.html",
+		"/Users/khalidadisendjaja/Sites/silex/src/Acme/Model/Campaign.php",
+		"/Users/khalidadisendjaja/Sites/silex/silex.sql",
+		"/Users/khalidadisendjaja/Sites/silex/phpinfo.php",
+		"/Users/khalidadisendjaja/Sites/silex/.htaccess",
+		"/Users/khalidadisendjaja/Sites/silex/composer.json",
+		"/Users/khalidadisendjaja/Sites/silex/test.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"shoutboxdss",
+			"doctrine",
+			"symfony/config",
+			"$_POST",
+			"result",
+			"href",
+			"$this->_url",
+			"_urlVar",
+			"_url_var",
+			"?",
+			"/?",
+			"khalid",
+			"_urlVar",
+			"dssapakatamereka",
+			"session",
+			"#mydewisrispa",
+			"$user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$_REQUEST",
+			"shoutboxdss",
+			"#MyDSS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
