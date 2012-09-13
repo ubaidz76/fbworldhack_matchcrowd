@@ -5,6 +5,8 @@ class Welcome extends CI_Controller {
     function __construct() {
         parent::__construct();
         $this->load->library('session');
+		$this->load->helper('url');
+
         $this->load->library('facebook', array(
             'appId' => $this->config->item('facebook_application_id'),
             'secret' => $this->config->item('facebook_secret_key'),
